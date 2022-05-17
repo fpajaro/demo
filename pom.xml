@@ -52,13 +52,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.couchbase.mock</groupId>
-			<artifactId>CouchbaseMock</artifactId>
-			<version>1.5.25</version>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
